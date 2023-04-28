@@ -12,8 +12,8 @@ School of Computing
 May, 2023
 
 Faculty Advisors:
-Brittany Duncan, Ph.D., Computer Science;
-Nirnimesh Ghose, Ph.D., Wireless Network Security
+Brittany Duncan, Ph.D.<br>
+Nirnimesh Ghose, Ph.D.
 
 Radio fingerprinting creates a way to uniquely identify devices based on slight variations [NG1] in the signal they transmit . These variations occur due to fluctuations in the manufacturing processes of wireless hardware. Research has been completed in this area for IoT devices to determine the best way to translate this practice into a network security context. I was curious if it was possible, then, to utilize radio fingerprinting to identify signals from UAV devices. I used a UAV device with a Zigbee antenna to collect data, which supports the possibility of identifying these devices through radio fingerprinting. 
 
