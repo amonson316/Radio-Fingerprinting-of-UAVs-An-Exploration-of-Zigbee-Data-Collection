@@ -22,7 +22,7 @@ Data collected can be found in the data directory
 
 ## Running the code
 - open the desired flowgraph in GNU radio and ensure all out-of-tree packets have been installed
-- if you wish to see the data beign pulled in real-time, open a terminal and navigate to the apps directory
+- if you wish to see the data being pulled in real-time, open a terminal and navigate to the apps directory
   - update the filename in transceiver.sh and run ./transceiver.sh to open wireshark and begin collecting data
 - otherwise simple generate the flowgraph and run it with the playbutton <br>
 ** Note ** You must be on the correct channel for your Zigbee device to pull data from it
