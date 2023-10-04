@@ -18,7 +18,8 @@ Nirnimesh Ghose, Ph.D.
 Radio fingerprinting creates a way to uniquely identify devices based on slight variations [NG1] in the signal they transmit . These variations occur due to fluctuations in the manufacturing processes of wireless hardware. Research has been completed in this area for IoT devices to determine the best way to translate this practice into a network security context. I was curious if it was possible, then, to utilize radio fingerprinting to identify signals from UAV devices. I used a UAV device with a Zigbee antenna to collect data, which supports the possibility of identifying these devices through radio fingerprinting. 
 
 Flowgraphs can be found in the Source Code directory<br>
-Data collected can be found in the data directory
+Data collected can be found in the data directory<br>
+Full thesis can be found and downloaded at this <a href="https://digitalcommons.unl.edu/honorstheses/613/">link</a>
 
 ## Running the code
 - open the desired flowgraph in GNU radio and ensure all out-of-tree packets have been installed
